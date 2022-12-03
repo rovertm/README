@@ -1,5 +1,7 @@
-Hi, I’m Trevor
+Hello!
 
-My repos include various projects including financial modeling, web scraping, and data analysis.
+My repos include various financial modeling, web scraping, and data analysis projects.
 
 Please use any and all models and code as you please.
+
+- Trevor
